@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet"   type="text/css"   href="style.css">     
+ 
+ <title>My Web Page</title> <br>
+   
+</head>
+<h1>Images</h1>
+   
+<body style="background-color:lightblue;">
+ <br>   
+ <br>   
+<nav>
+ <ul>
+  <li><a href="index.html1">Home</a></li>
+    <li><a href="index.html2">gallery</a></li>  
+    <li><a href="index.html121">Continue</a></li>
+  <li><a href="index.html122">nextpage</a></li>
+</ul>
+</nav>
+<div style="margin-left:15%;padding:1px 16px;height:1000px;">  
+    
+<img src="mountains.jpg" alt="Nature" class="responsive" width="600" height="400">
+
+
+    <p><a herf="gallery.asp"></a></p>
+
+        <p> Welcome to Frank's Web Page</p>
+<hr>   
+<br>
+<br>                              
+  
+    <div id="p01">ABOUT ME</div>  
+    <br>
+    <br>
+    <div id="p02"> Good Day world, My Name is Frank Ramsay, currently I  am a self-employed Construction Consulting Engineer<br>
+                                                                                                                   <br>
+        
+     and at this point in life, I am transitioning in different, excited and challenging Careers .<br>
+                                                                                                                       <br> 
+                                                                                                                       
+    I have several interesting hobbies ,of which travelling is at the top of the list . I travelled frequently to other countries    <br>
+                                                                                                                                      <br>
+    such as the Bahamas, Jamaica ,Barbados, Canada, Mexico,Aruba, England , Dubai and Africa . Countries which I am intending to <br>
+                                                                                                                                  <br>     
+    visit in the next two years are Sweden, Paris ,Australlia, Copenhaugen, Norway, Japan , South Korea and the Phillipines. <br>
+                                                                                                                                    <br>    
+     Finally after all this , I will relocate and hopefully reside in Panama. During all this travelling I will some how find time to  <br>
+                                                                                                                                           <br>
+    to learn to play the Violine and the Paino. I am rushing to do this in a minute as LIFE IS JUST FOR LIVING and above all it's very short.<br>
+ 
+    </div>
+    </div>
+</body>
+ 
+</html>
+
+

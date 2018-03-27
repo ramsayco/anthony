@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    margin: 0;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+
+li a {
+    display: block;
+    padding: 8px 16px;
+    background-color:lightblue;
+       
+ }     
+    
+li {
+    float: left;
+    }
+}
+
+li:last-child {
+    border-bottom: none;
+}
+    
+li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+    
+    p{
+      text-align:center;  
+        
+    }
+    
+    h2{ 
+        text-align:center; 
+        font-family: algerian;
+        text-decoration:underline;
+         
+       }   
+
+    li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+    
+ .img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+        
+    div {
+    background-color: lightblue;
+    width: 300px;
+    height:300px;
+    border: 2px solid green;
+    padding: 25px;
+    margin:  25px;
+    float: left;
+        
+        .class{
+    background-color: lightblue;
+    width: 300px;
+    height:300px;
+    border: 2px solid green;
+    padding: 25px;
+    margin:  25px;
+    float: clear;
+    image: center;        
+        
+
+ }   
+    
+    </style>
+    </head>
+<body>
+
+    <ul>
+       <li><a href="index.html1">home</a></li>
+        <li><a href="index.html121">Continue</a></li>
+  <li><a href="index.html122">nextpage</a></li>
+</ul> 
+    
+    <h2>PICTURE GALLERY</h2><br> 
+    
+    
+    
+    
+     <img src="Alien.jpg" alt="ai image" width="200" height="200">
+  
+
+    <img src="diver.jpg" alt="diver" width="200" height="300">
+  
+  
+
+    <img src="The capitol.jpg" alt="congress" width="200" height="300">
+  
+  
+
+    <img src="woman1.jpg" alt="lady1" width="200" height="300">
+  
+  
+
+    <img src="woman2.jpg" alt="lady2" width="200" height="300">
+  
+  
+    <img src="mountains.jpg" alt="nature" width="200" height="300">
+  
+  
+    
+<br>
+<br>
+ <br>    
+    
+<div id="content"><img src="diver.jpg" alt="woman" width="300" height="300"> </div>
+    
+    <div id="content"><img src="woman1.jpg" alt="woman1" width="300" height="300"> </div>
+    
+    <div id="content"><img src="woman2.jpg" alt="woman2" width="300" height="300"> </div>
+<br>
+<br>
+<br>     
+    <div class="content"><img src="The capitol.jpg" alt="capitol" width="300" height="300"> </div>
+    
+    <div class="content"><img src="mountains.jpg" alt="mountains" width="300" height="300"> </div>
+    
+    <div class="content"><img src="Alien.jpg" alt="Alien" width="300" height="300"> </div>
+
+ 
+   
+</body>
+</html>
